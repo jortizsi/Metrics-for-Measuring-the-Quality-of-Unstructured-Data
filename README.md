@@ -1,4 +1,4 @@
-# Metrics-for-Measuring-the-Quality-of-Unstructured-Data
+## Metrics for-Measuring the-Quality of Unstructured-Data
 
 This is the repository for the thesis work _Metrics for Measuring the Quality of Unstructured Data_. The work presents a review of past literature to discuss the use of classifiers as data-driven quality-metrics. We also train and evaluate for illustration Python implementations of automatic data quality metrics for text data using the SEAHORSE dataset.
 
