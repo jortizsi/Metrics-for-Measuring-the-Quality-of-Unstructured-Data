@@ -6,7 +6,7 @@ To evaluate this metrics implemented with classifiers, it proves relevant the pr
 
 Bechmarks and datasets indicating fitness for use are an important input to train these metrics. The use of the ROC-AUC Delong Test provides a robust statistical base for comparison and validation of competing models.
 
-Note that in the cases of widely studied models, hyperparameter tuning can leverage evidence supported heuristic policies. For less documeted models - or for a more exhaustive search - tools as Optuna can provide a comprehensive approach.
+Note that in the cases of widely studied models, hyperparameter tuning can leverage evidence supported heuristic policies. For less documented models - or for a more exhaustive search - tools as Optuna can provide a comprehensive approach.
 
 This data-driven approach for data quality assessment is particularly useful for unstructured data, and data types affected by subjectivity in which the goal is to imitate human judgement patterns. For practical use, lightweight models can provide a cost-effective implementation. 
 
