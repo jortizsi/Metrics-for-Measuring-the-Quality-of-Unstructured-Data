@@ -1,6 +1,6 @@
 ## Metrics for Measuring the Quality of Unstructured Data
 
-This is the repository for the thesis work _Metrics for Measuring the Quality of Unstructured Data_. The work presents a review of past literature to discuss the use of classifiers as data-driven quality-metrics. We also train and evaluate for illustration Python implementations of automatic data quality metrics for text data using the SEAHORSE dataset.
+This is the repository for the thesis work _Metrics for Measuring the Quality of Unstructured Data_. The work presents a review of past literature to discuss the use of classifiers as data-driven quality-metrics. We also train and evaluate for illustration Python implementations of automatic data quality metrics for text data using the SEAHORSE dataset. The driving principle consists of discriminating a satisfactory quality class.
 
 To evaluate this metrics implemented with classifiers, it proves relevant the probabilistic interpretation of ROC-AUC as the probability of a satisfactory-quality instance to get a higher score than a defective instance. This trained automatic-metrics should comply the property of calibration. 
 
